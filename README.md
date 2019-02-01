@@ -3,12 +3,12 @@
 Dependencies
 Tensorflow Object Detection API depends on the following libraries:
 
-Protobuf 3.0.0
-Python-tk
-Pillow 1.0
-lxml
-tf Slim (which is included in the "tensorflow/models/research/" checkout)
-Jupyter notebook
+Protobuf 3.0.0<br />
+Python-tk<br />
+Pillow 1.0<br />
+lxml,
+tf Slim (which is included in the "tensorflow/models/research/" checkout),
+Jupyter notebook,
 Matplotlib
 Tensorflow (>=1.9.0)
 Cython
