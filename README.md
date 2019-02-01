@@ -19,7 +19,6 @@ For detailed steps to install Tensorflow, follow the Tensorflow installation ins
 
 # For CPU
 pip install tensorflow <br />
-or <br />
 # For Ubuntu
 sudo apt-get install protobuf-compiler python-pil python-lxml python-tk <br />
 pip install --user Cython <br />
